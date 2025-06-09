@@ -4,6 +4,7 @@
 We are excited to showcase BusEYE, our Smart Bus Tracking System developed as part of our Software Project Management (SPM) course. This project aims to improve public transport in urban areas by ensuring real-time visibility of buses for both passengers and conductors.
 
 🔧 Key Features:
+
 👤 Admin Panel – Admins can:
  ▪️ Add bus routes
  ▪️ Register conductors
