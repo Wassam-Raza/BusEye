@@ -59,7 +59,7 @@ This project reflects our understanding of software project planning, architectu
 
  👨‍💻 Syed Misam Jaffry www.linkedin.com/in/syed-misam-jaffry-361aa732a/
  
- 👨‍💻 Muhammad Ali Shafique  www.linkedin.com/in/muhammad-ali-shafique-6b52b52aa/?
+ 👨‍💻 Muhammad Ali Shafique  www.linkedin.com/in/muhammad-ali-shafique-6b52b52aa/
  
  👨‍💻 Wassam Raza https://www.linkedin.com/in/wassamraza/
 
