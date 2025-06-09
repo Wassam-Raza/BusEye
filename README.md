@@ -31,8 +31,8 @@ REST APIs for communication between services
 This project reflects our understanding of software project planning, architecture, teamwork, and real-world user needs.
 
 🤝 Developed by:
- 👨‍💻 Syed Misam Jaffry
- 👨‍💻 Muhammad Ali Shafique 
- 👨‍💻 Wassam Raza
+ 👨‍💻 Syed Misam Jaffry www.linkedin.com/in/syed-misam-jaffry-361aa732a/
+ 👨‍💻 Muhammad Ali Shafique  www.linkedin.com/in/muhammad-ali-shafique-6b52b52aa/?
+ 👨‍💻 Wassam Raza https://www.linkedin.com/in/wassamraza/
 
 We're proud of what we’ve achieved together and excited to keep building impactful tech solutions!
